@@ -1,0 +1,41 @@
+[
+    {
+        "userId" : "6310bd2fdc6d50334fd9c0b7",
+        "userName" : "cBing",
+        "firstName" : "Chandler",
+        "lastName" : "Bing",
+        "email" : "bingC@gmail.com",
+        "password" : "pA$s123",
+        "mobileNumber" : "09555555555",
+        "isAdmin" : false,
+        "enrollments" : [ 
+            {
+                "id" : "6310c671dc6d50334fd9c27b",
+                "courseId" : "6310c13edc6d50334fd9c156",
+                "courseName" : "Introduction to Programming",
+                "isPaid" : true,
+                "dateEnrolled" : "09/01/22"
+            }
+        ]
+    },
+    {
+        "userId" : "6310bd2fdc6d50334fd9c0ba",
+        "userName" : "mGeller",
+        "firstName" : "Monica",
+        "lastName" : "Geller",
+        "email" : "gellerM@gmail.com",
+        "password" : "$ecReT456",
+        "mobileNumber" : "09544444444",
+        "isAdmin" : false,
+        "enrollments" : [ 
+            {
+                "id" : "6310c6f3dc6d50334fd9c297",
+                "courseId" : "6310c13edc6d50334fd9c159",
+                "courseName" : "Intermediate Programming",
+                "isPaid" : true,
+                "dateEnrolled" : "08/31/22"
+            }
+        ]
+    }
+    
+]

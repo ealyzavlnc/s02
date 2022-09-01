@@ -1,0 +1,40 @@
+[
+    {
+        "courseId" : "6310c13edc6d50334fd9c156",
+        "courseName" : "Introduction to Programming",
+        "description" : "PCCO103",
+        "price" : "Php 1,800.00",
+        "slots" : "12",
+        "schedule" : "LB3 MTWThF",
+        "instructor" : "Dr. Rachel Green",
+        "isActive" : true,
+        "enrollees" : [ 
+            {
+                "id" : "6310c671dc6d50334fd9c27b",
+                "userId" : "6310bd2fdc6d50334fd9c0b7",
+                "userName" : "cBing",
+                "isPaid" : true,
+                "dateEnrolled" : "09/01/22"
+            }
+        ]
+    },
+    {
+        "courseId" : "6310c13edc6d50334fd9c159",
+        "courseName" : "Intermediate Programming",
+        "description" : "PCCO104",
+        "price" : "Php 1,800.00",
+        "slots" : "10",
+        "schedule" : "LB3 MTWThF",
+        "instructor" : "Dr. Phoebe Buffay",
+        "isActive" : true,
+        "enrollees" : [ 
+            {
+                "id" : "6310c6f3dc6d50334fd9c297",
+                "userId" : "6310bd2fdc6d50334fd9c0ba",
+                "userName" : "mGeller",
+                "isPaid" : true,
+                "dateEnrolled" : "08/31/22"
+            }
+        ]
+    }    
+]
